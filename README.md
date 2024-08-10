@@ -30,12 +30,12 @@ Built with Next.js to handle the user interface, Liveblocks for real-time featur
 
 👉 Collaborative Text Editor: Multiple users can edit the same document simultaneously with real-time updates.
 
-👉 Documents Management
+👉 Documents Management:
 
-Create Documents: Users can create new documents, which are automatically saved and listed.
-Delete Documents: Users can delete documents they own.
-Share Documents: Users can share documents via email or link with view/edit permissions.
-List Documents: Display all documents owned or shared with the user, with search and sorting functionalities.
+-Create Documents: Users can create new documents, which are automatically saved and listed.
+-Delete Documents: Users can delete documents they own.
+-Share Documents: Users can share documents via email or link with view/edit permissions.
+-List Documents: Display all documents owned or shared with the user, with search and sorting functionalities.
 👉 Comments: Users can add inline and general comments, with threading for discussions.
 
 👉 Active Collaborators on Text Editor: Show active collaborators with real-time presence indicators.
