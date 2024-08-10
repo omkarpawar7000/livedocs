@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://github.com/adrianhajdin/zoom-clone/assets/67959015/f09a8421-67d3-45ce-b9bc-a791cdc2774b" alt="Project Banner">
+      <img src="https://private-user-images.githubusercontent.com/151519281/349189110-eaaeb1f0-22da-46be-9e29-9bef70e0039d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMyNjkyNTAsIm5iZiI6MTcyMzI2ODk1MCwicGF0aCI6Ii8xNTE1MTkyODEvMzQ5MTg5MTEwLWVhYWViMWYwLTIyZGEtNDZiZS05ZTI5LTliZWY3MGUwMDM5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxMFQwNTQ5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iODk1MmRkNDVmZGM2YTZiYzY3M2EzOTI2OTQzNjk4NTk5ODgzNzUyMDQwZTk2ZTRhMDJiYzQ4MzkyOGU4NTE4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.o6i9S0IF43EFIoMNcsSUoVs_SP1-94wxmhTN3GyAdU8" alt="Project Banner">
   <br />
 
   <div>
