@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-      <img src="https://private-user-images.githubusercontent.com/151519281/349189110-eaaeb1f0-22da-46be-9e29-9bef70e0039d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM0OTE5MzgsIm5iZiI6MTcyMzQ5MTYzOCwicGF0aCI6Ii8xNTE1MTkyODEvMzQ5MTg5MTEwLWVhYWViMWYwLTIyZGEtNDZiZS05ZTI5LTliZWY3MGUwMDM5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwODEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDgxMlQxOTQwMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ODNiNWM3NDE2YjNmNmYyYzUyYTM1NzBiYTExNDBmMjRkZTg3ODMwNTg3ZGNmYjhkYTVhZjM0NTdkZjQ0Mjg5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.My9X_kJvbPOVakJzNlQ0dmLO08tmZYJvlNkZIErH9Ms" alt="Project Banner">
+      <img src="https://github.com/omkarpawar7000/livedocs/blob/dcdf6f28b03e1580b060ff993af92d33394aea53/livedocs.webp" alt="Project Banner">
   <br />
 
   <div>
